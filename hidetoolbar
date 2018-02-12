@@ -1,0 +1,4 @@
+Hide Toolbar
+        // hide toolbar
+//        toolbar.getBackground().setAlpha(0);
+//        toolbar.setBackgroundColor(0x00ffffff);
